@@ -13,9 +13,8 @@ I'm a Computer Engineering enthusiast, coding since 2025, passionate about build
 - 📚 *Currently learning:* add a language / framework / tool you're picking up
 - 💬 *Ask me about:* C, C++, Java, Python, or Linux
 - 📫 *Email:* saradabhatra765@gmail.com
+- 📄 Resume: https://drive.google.com/file/d/18lzPtM9l8EsWrATbaht2u2jJdyZpUHnQ/view?usp=sharing
 - ⚡ *Fun fact:* I am funny
-
-- 📄 Resume:* [https://drive.google.com/file/d/1ns8vL0OxJDJnfbe5RW1d17HqJ9KLM7t6/view?usp=sharing](https://drive.google.com/file/d/1ns8vL0OxJDJnfbe5RW1d17HqJ9KLM7t6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
